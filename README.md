@@ -25,5 +25,5 @@ This file handle data sent back from Google.
 ### profile.php
 This page display user data sent back from Google. The user requies a valid login session to open this page.
 
-## logout.php
+### logout.php
 This file contains a logout script which destroys the login session and redirect the user back to the login page.
